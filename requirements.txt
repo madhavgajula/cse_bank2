@@ -3,3 +3,4 @@ qrcode
 streamlit
 pillow
 pandas
+supabase
