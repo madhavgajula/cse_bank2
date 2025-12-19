@@ -1,0 +1,4 @@
+gtts
+qrcode
+streamlit
+pillow
